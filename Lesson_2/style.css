@@ -1,3 +1,11 @@
-h2 {
+.heading {
     color: red;
+}
+
+.title{
+    background-color: grey;
+}
+
+.heading-about{
+    color: orange;
 }
